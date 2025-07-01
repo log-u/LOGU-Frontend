@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "token-build": "style-dictionary build --config style-dictionary.config.json"
   },
   "dependencies": {
     "eslint-plugin-simple-import-sort": "^12.1.1",
