@@ -10,6 +10,7 @@
     "token-build": "style-dictionary build --config style-dictionary.config.json"
   },
   "dependencies": {
+    "clsx": "^2.1.1",
     "eslint-plugin-simple-import-sort": "^12.1.1",
     "eslint-plugin-unused-imports": "^4.1.4",
     "next": "15.3.4",
